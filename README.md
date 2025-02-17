@@ -17,7 +17,7 @@ Trabajamos con datos del proyecto **[International Best Track Archive for Climat
 - `Jupyter Notebooks`
 
 ## **Modelos Desarrollados**
-### ** Clasificación de la Naturaleza del Ciclón**
+### **Clasificación de la Naturaleza del Ciclón**
 **Variable dependiente:** `NATURE`  
 **Variables independientes:**  
 ```
@@ -27,7 +27,7 @@ USA_R50_NE, USA_R50_SE, USA_R50_SW, USA_R50_NW,
 USA_R64_NE, USA_R64_SE, USA_R64_SW, USA_R64_NW
 ```
 
-### ** Predicción de Landfall (Impacto en Tierra)**
+### **Predicción de Landfall (Impacto en Tierra)**
 **Variable dependiente:** `LANDFALL`  
 **Variables independientes:**  
 ```
